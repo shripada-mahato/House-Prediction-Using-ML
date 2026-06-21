@@ -39,7 +39,7 @@ Enter Your Amount in Lakh:- 70
 Output:
 
 ```text
-if you budget is 70 Lakh/- you buy 2.75 Bhk Flat in kolkata
+if you budget is 70 Lakh/- you buy 2.75 Bhk Flat in kolkata 
 ```
 
 ## Project Structure
